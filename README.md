@@ -1,2 +1,2 @@
-# blog_hogo_site.github.io
+# blog_hugo_site.github.io
 Статический сайт - блог. С Hugo
